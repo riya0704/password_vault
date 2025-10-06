@@ -146,3 +146,4 @@ A secure, privacy-first password manager built with Next.js, TypeScript, and Mon
 ## 📝 License
 
 MIT License - feel free to use for personal or commercial projects.
+# password_vault
