@@ -70,8 +70,7 @@ A secure, privacy-first password manager built with Next.js, TypeScript, and Mon
 2. **Set environment variables** in Vercel dashboard:
    - `MONGODB_URI`: Your MongoDB connection string
 
-3. **Alternative: One-click deploy**
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/password-vault-mvp)
+
 
 ## 📱 Usage Flow
 
